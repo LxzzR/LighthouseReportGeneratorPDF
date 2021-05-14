@@ -1,0 +1,16 @@
+{
+  "name": "lightlouse-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.13.4",
+    "html-pdf-chrome": "^0.6.1",
+    "lighthouse": "^6.5.0"
+  }
+}
